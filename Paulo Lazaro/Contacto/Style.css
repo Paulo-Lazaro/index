@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+input,select{
+	display: block;
+	height: 45px;
+	width: 400px;
+	margin: 10px;
+    margin-left: 550px;
+	border-radius: 30px;
+	border: 1px solid black;
+	font-size: 14pt;
+	padding: 10px 20px;
+	background-color: rgba(255, 255, 255, 0.01);
+	color: white;
+}
+select{
+    background-color: aqua;
+}
+   
+label{
+    margin-left: 600px;
+    font-size: larger;
+    color: white;
+}
+form#cadastro{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    margin: auto;
+}
+a{
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+    margin-left: 660px;
+}
+
+placeholder{
+    color:white;
+}

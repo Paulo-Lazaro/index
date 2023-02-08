@@ -1,0 +1,14 @@
+body{
+    background-image: url("./t.jpg");
+}
+input:id{
+    color: blue;
+}
+input,th,td,tr{
+    color: white;
+}
+table>*{
+    display: inline-flexbox;
+    margin: 500px;
+    color: white;
+}
